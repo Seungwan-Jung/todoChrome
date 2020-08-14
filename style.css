@@ -21,6 +21,17 @@
   display: flex;
   justify-content: center;
 }
+.name {
+  display: flex;
+  justify-content: center;
+}
+.form input {
+  padding: 10px;
+  background-color: yellowgreen;
+  margin-top: 45px;
+  font-size: 30px;
+  text-align: center;
+}
 
 .js-toDoForm {
   display: flex;
